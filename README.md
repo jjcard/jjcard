@@ -4,4 +4,4 @@
 
 
 ## Some of my Github Stats
-![jjcard github stats](https://github-readme-stats.vercel.app/api?username=jjcard&theme=dark&show_icons=true)
+![jjcard github stats](https://github-readme-stats.vercel.app/api?username=jjcard&theme=radical&show_icons=true)

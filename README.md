@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**jjcard/jjcard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### I am John Hill
+### Hi there I'm John Hill 👋
 
 - 🔭 I’m software engineeer working on Enterprise backend APIs.
 

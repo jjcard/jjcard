@@ -2,7 +2,7 @@
 
 ## About
 - **Work:** I’m software engineeer working on Enterprise backend APIs.
-- **Learning:** Rust, interpretors (via Lox tutorial)
+- **Learning:** Rust, language interpreters (via [Crafting Interpreters](https://craftinginterpreters.com/))
 - **Reading:** The Pragmatic Programmer
 - **Fun Fact:** I have an eclectic mix of retro games, including a Atari touch-me handheld and a Sega Channel Adapter
 
